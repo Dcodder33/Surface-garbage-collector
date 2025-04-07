@@ -1,6 +1,6 @@
 # Surface-garbage-collector
 
----->>> This project involves the development of a Floating Garbage Collector RC Controlled system, designed to help keep water bodies cleaner.It integrates an embedded system with ESP32 for Bluetooth control and ESP32 CAM for live video monitoring. The system also utilizes L298N motor drivers and BO motors to move the garbage collector efficiently across water.
+---->>> This project involves the development of a Floating Garbage Collector RC Controlled system, designed to help keep water bodies cleaner.It integrates an embedded system with ESP32 for wifi control and ESP32 CAM for live video monitoring. The system also utilizes L298N motor drivers and BO motors to move the garbage collector efficiently across water.
 
 
 
